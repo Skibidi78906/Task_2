@@ -1,0 +1,108 @@
+{
+  "ludi": [
+    {
+      "id": "1",
+      "imya": "Ivan",
+      "vozrast": 21,
+      "gorod": "Moskva",
+      "pol": "m",
+      "opisaniye": "Lyublyu muziku i kino",
+      "foto": "https://i.imgur.com/ivan.jpg",
+      "sns": "https://t.me/ivan",
+      "interesy": ["muzika", "kinema", "igry"],
+      "lajki": ["2", "4"],
+      "druzya": ["2", "3"]
+    },
+    {
+      "id": "2",
+      "imya": "Anna",
+      "vozrast": 20,
+      "gorod": "Moskva",
+      "pol": "zh",
+      "opisaniye": "Kino i knigi",
+      "foto": "https://i.imgur.com/anna.jpg",
+      "sns": "https://vk.com/anna",
+      "interesy": ["muzika", "kinema", "knigi"],
+      "lajki": ["1", "3", "6"],
+      "druzya": ["1", "5"]
+    },
+    {
+      "id": "3",
+      "imya": "Petr",
+      "vozrast": 23,
+      "gorod": "Voronezh",
+      "pol": "m",
+      "opisaniye": "Sport i igry",
+      "foto": "https://i.imgur.com/petr.jpg",
+      "sns": "https://t.me/petr",
+      "interesy": ["sport", "igry", "eda"],
+      "lajki": ["2"],
+      "druzya": ["1", "4"]
+    },
+    {
+      "id": "4",
+      "imya": "Maria",
+      "vozrast": 22,
+      "gorod": "Voronezh",
+      "pol": "zh",
+      "opisaniye": "Iskussvo i kino",
+      "foto": "https://i.imgur.com/maria.jpg",
+      "sns": "https://vk.com/maria",
+      "interesy": ["kinema", "knigi", "iskusstvo"],
+      "lajki": ["2", "5"],
+      "druzya": ["3", "6"]
+    },
+    {
+      "id": "5",
+      "imya": "Olga",
+      "vozrast": 19,
+      "gorod": "Kazan",
+      "pol": "zh",
+      "opisaniye": "Muzyka i iskusstvo",
+      "foto": "https://i.imgur.com/olga.jpg",
+      "sns": "https://t.me/olga",
+      "interesy": ["muzika", "iskusstvo", "eda"],
+      "lajki": ["4"],
+      "druzya": ["2", "7"]
+    },
+    {
+      "id": "6",
+      "imya": "Sergey",
+      "vozrast": 25,
+      "gorod": "Kazan",
+      "pol": "m",
+      "opisaniye": "Putyeshetstva po miru",
+      "foto": "https://i.imgur.com/sergey.jpg",
+      "sns": "https://t.me/sergey",
+      "interesy": ["sport", "igry", "putyeshetstva"],
+      "lajki": ["1"],
+      "druzya": ["4", "8"]
+    },
+    {
+      "id": "7",
+      "imya": "Nastya",
+      "vozrast": 24,
+      "gorod": "Moskva",
+      "pol": "zh",
+      "opisaniye": "Muzyka i putyeshetstva",
+      "foto": "https://i.imgur.com/nastya.jpg",
+      "sns": "https://vk.com/nastya",
+      "interesy": ["kinema", "muzika", "putyeshetstva"],
+      "lajki": ["6"],
+      "druzya": ["5", "8"]
+    },
+    {
+      "id": "8",
+      "imya": "Dmitry",
+      "vozrast": 27,
+      "gorod": "Voronezh",
+      "pol": "m",
+      "opisaniye": "Sport i eda",
+      "foto": "https://i.imgur.com/dmitry.jpg",
+      "sns": "https://t.me/dmitry",
+      "interesy": ["sport", "eda", "knigi"],
+      "lajki": [],
+      "druzya": ["6", "7"]
+    }
+  ]
+}
